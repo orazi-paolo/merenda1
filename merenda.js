@@ -1,3 +1,3 @@
 function sommaInteri(N) {
-    // Studente, completa la funzione!
+    // A voi l'onore!
 }
