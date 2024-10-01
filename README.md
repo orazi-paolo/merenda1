@@ -34,7 +34,7 @@ Sono stati predefiniti 10 test automatici, che verificano:
 - Casi limite (es. `N = 0`, `N = 1`)
 - Casi con input non validi (es. `N` negativo o non numerico)
 
-## Nota Divertente 😜
+## Nota
 
 Se dovete usare ChatGPT per risolvere questo esercizio, forse è vero che l'IA vi ruberà il lavoro! 😜
 
